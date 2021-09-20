@@ -1,1 +1,1 @@
-# Polkadot-Hack-Challenges-2021
+# Polkadot-Hack-Challenges-2021 Submissions
