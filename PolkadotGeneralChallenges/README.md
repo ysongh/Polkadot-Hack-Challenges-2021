@@ -5,3 +5,5 @@
 - [Add Pallets to Your Runtime](https://github.com/ysongh/Polkadot-Hack-Challenges-2021/tree/master/PolkadotGeneralChallenges/AddPalletsToYourRuntime)
 
 - [Build a PoE Decentralized Application](https://github.com/ysongh/Polkadot-Hack-Challenges-2021/tree/master/PolkadotGeneralChallenges/BuildAPoEDecentralizedApplication)
+
+- [Start a Private Network with Substrate](https://github.com/ysongh/Polkadot-Hack-Challenges-2021/tree/master/PolkadotGeneralChallenges/StartAPrivateNetwork)
